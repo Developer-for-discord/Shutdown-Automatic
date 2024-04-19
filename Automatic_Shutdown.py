@@ -1,7 +1,7 @@
 #Welcome to Automatic-shutdown!
 #I create this program to set your shutdown time for your computer. I hope you have fun with my program.
 #Thank you for support 😉👨🏽‍💻
-#CREATED BY BILOTO567
+#CREATED BY giannisKokkini
 
 
 from tkinter import*
